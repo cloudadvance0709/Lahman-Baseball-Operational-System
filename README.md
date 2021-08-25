@@ -5,12 +5,12 @@
 
 ### The web application that support specific paths for SQL and Neo4j databases are:
 ### ● POST, GET with query parameters on: 
-####  &nbsp ○ /FantasyTeam
-####  <br />○ /FantasyPlayer
-####  <br />○ /FantasyManager 
-####  <br />○ /FantasyLeague
-####  <br />○ /FantasyTeam/{teamID}/FantasyPlayer
-####  <br />○ /FantasyLeague/{leagueID}/FantasyTeam 
+####  ○ /FantasyTeam
+####  ○ /FantasyPlayer
+####  ○ /FantasyManager 
+####  ○ /FantasyLeague
+####  ○ /FantasyTeam/{teamID}/FantasyPlayer
+####  ○ /FantasyLeague/{leagueID}/FantasyTeam 
 ### ● GET, PUT, DELETE on
 ####  ○ /FantasyTeam/{teamID}
 ####  ○ /FantasyTeam/{teamID}/FantasyPlayer/{playerID} 
