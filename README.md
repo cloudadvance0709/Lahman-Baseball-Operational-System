@@ -5,7 +5,7 @@
 
 ### The web application that support specific paths for SQL and Neo4j databases are:
 ### ● POST, GET with query parameters on: 
-####  <br />○ /FantasyTeam
+####  &nbsp ○ /FantasyTeam
 ####  <br />○ /FantasyPlayer
 ####  <br />○ /FantasyManager 
 ####  <br />○ /FantasyLeague
