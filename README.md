@@ -9,23 +9,23 @@
 ### • RealWorldPlayer
 ### Implemented a Flask Web Application capable of managing the paths needs to support on SQL and Neo4j are:
 ### ● POST, GET with query parameters on: 
-###  ○ /FantasyTeam
-###  ○ /FantasyPlayer
-###  ○ /FantasyManager 
-###  ○ /FantasyLeague
-###  ○ /FantasyTeam/{teamID}/FantasyPlayer
-###  ○ /FantasyLeague/{leagueID}/FantasyTeam 
+####  ○ /FantasyTeam
+####  ○ /FantasyPlayer
+####  ○ /FantasyManager 
+####  ○ /FantasyLeague
+####  ○ /FantasyTeam/{teamID}/FantasyPlayer
+####  ○ /FantasyLeague/{leagueID}/FantasyTeam 
 ### ● GET, PUT, DELETE on
-###  ○ /FantasyTeam/{teamID}
-###  ○ /FantasyTeam/{teamID}/FantasyPlayer/{playerID} 
-###  ○ /FantasyManager/{uni}
-###  ○ /FantasyManager/{uni}/FantasyTeam/{teamID}
-###  ○ /FantasyManager/{uni}/FantasyLeague/{leagueID}
+####  ○ /FantasyTeam/{teamID}
+####  ○ /FantasyTeam/{teamID}/FantasyPlayer/{playerID} 
+####  ○ /FantasyManager/{uni}
+####  ○ /FantasyManager/{uni}/FantasyTeam/{teamID}
+####  ○ /FantasyManager/{uni}/FantasyLeague/{leagueID}
 
 ### The paths on Neo4j are:
-### ● Social links: Neo4j Only
-###  ○ GET, POST: /FantasyManager/{uni}/Follows
-###  ○ GET, POST: /FantasyManager/{uni}/Likes
+#### ● Social links: Neo4j Only
+####  ○ GET, POST: /FantasyManager/{uni}/Follows
+####  ○ GET, POST: /FantasyManager/{uni}/Likes
   
 Defined the routes and handlers. 
 
