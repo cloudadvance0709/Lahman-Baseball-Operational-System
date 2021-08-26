@@ -1,7 +1,7 @@
 # Lahman-Baseball-Operational-System
 
 ## Overview ##
-### •	Built a Flask web application based on Lahman Baseball Database that can implement a set of REST resources and functions for create, retrieve, update and delete resources. The web application is capable of managing specific paths for SQL and Neo4j databases.
+### • Built a Flask web application based on Lahman Baseball Database using Python and implemented a set of REST resources and functions for creating, retrieve, update and delete resources (teams, leagues, players, etc.). The web application is capable of managing specific paths for SQL and Neo4j databases.
 
 ### The web application that support specific paths for SQL and Neo4j databases are:
 ### ● POST, GET with query parameters on: 
